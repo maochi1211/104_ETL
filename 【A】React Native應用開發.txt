@@ -1,0 +1,8 @@
+11/23【A】React Native應用開發
+富智康國際股份有限公司(鴻海集團)
+https://www.104.com.tw/job/7faym?jobsource=jolist_a_relevance
+負責構建基於React Native實現的 iOS & Android App。 
+與設計師、Back-End 合作迭代產品需求。 
+研究、開發並維護UI Component
+探索前沿技術並導入應用開發。
+Unit Test開發及軟體效能優化 
